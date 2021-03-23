@@ -1,0 +1,3 @@
+tsm_chests:chest left,right,back tsm_chests_side.png
+tsm_chests:chest front tsm_chests_front.png
+tsm_chests:chest top tsm_chests_top.png
