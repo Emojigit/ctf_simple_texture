@@ -1,6 +1,6 @@
 tsm_chests:chest left,right,back tsm_chests_side.png
 tsm_chests:chest front tsm_chests_front.png
-tsm_chests:chest top tsm_chests_top.png
+tsm_chests:chest top,bottom tsm_chests_top.png
 ctf_map:ind_glass all ctf_map_ind_glass.png
 ctf_flag:flag_top_blue top,bottom,left,right ctf_flag_side.png
 ctf_flag:flag_top_red top,bottom,left,right ctf_flag_side.png
